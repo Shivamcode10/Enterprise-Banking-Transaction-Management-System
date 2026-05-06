@@ -1,0 +1,43 @@
+# Node Modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary Files
+tmp/
+temp/
+
+# Package Lock
+package-lock.json
+
+# Coverage
+coverage/
+
+# Build Files
+dist/
+build/
+
+# Cache
+.cache/
+
+# MySQL Dumps
+*.sql.gz
+
+# Runtime Data
+pids
+*.pid
+*.seed
+*.pid.lock
